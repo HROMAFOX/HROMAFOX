@@ -13,7 +13,9 @@ You can click the Preview link to take a look at your changes.
 Имаме честа да бъдем партньори със НАЙ добрия Minecraft и VPS host а именно Amhost или вече Mazen.
 
 :web: Техния уебсайт: https://client.mazenhost.com/aff.php?aff=102
+
 :contactbook: Контакти: https://discord.gg/mazenhost / +359 (889) 777 551
+
 :discord: Дискорд група: https://discord.gg/mazenhost
 
 🎆 КАКВО ПРЕДЛАГАТ ТЕ?
