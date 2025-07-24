@@ -5,13 +5,13 @@
 - Making redstone systems.
 - Programin in C#, Javascript, Python, HTML, CSS.
 
-<!---
+<!--
 HROMAFOX/HROMAFOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
 
 
-Имаме честа да бъдем партньори със НАЙ добрия Minecraft и VPS host а именно Amhost или вече Mazen.
+<!--Имаме честа да бъдем партньори със НАЙ добрия Minecraft и VPS host а именно Amhost или вече Mazen.
 
 :web: Техния уебсайт: https://client.mazenhost.com/aff.php?aff=102
 
@@ -35,4 +35,4 @@ AMHost.BG е компания, предлагаща хостинг услуги,
 Може да влезете и във техния Discord server [https://discord.gg/HPKqrYBwAZ]
 
 НЕ забравяйте преди да пазарувате от тях да си включите бисквитките!
-Като влезете в уебсайта отивате на клиентска зона горе в дясно. След което натискате бутона Create account. Попълвате и сте готови.
+Като влезете в уебсайта отивате на клиентска зона горе в дясно. След което натискате бутона Create account. Попълвате и сте готови.-->
