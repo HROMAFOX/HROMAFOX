@@ -1,4 +1,5 @@
 🦊 **HROMAFOX** | SOFTWARE & SYSTEMS ARCHITECT ⚙️
+
 📍 FGH STUDIO Founder | 🎂 18 Y.O. | 🗓️ Est. 27.11.2007
 ---
 **[ 💻 PRIMARY STACK ]**
