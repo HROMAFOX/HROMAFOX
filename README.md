@@ -1,9 +1,26 @@
-- 👋 Hi, I’m HROMAFOX
+⭐ **HROMAFOX** | SOFTWARE & SYSTEMS ARCHITECT ⚙️
+📍 FGH STUDIO Founder | 🎂 18 Y.O. | 🗓️ Est. 27.11.2007
+---
+**[ 💻 PRIMARY STACK ]**
+* 🖼️ **Frontend:** Next.js, JavaScript (ES6+), HTML5/CSS3.
+* 💾 **Backend:** Java, Kotlin, PHP, MySQL.
+* 🤖 **Automation:** Discord Bot Architecture & API Integration.
+
+**[ ⛏️ MINECRAFT ENGINEERING ]**
+* 🛠️ **Development:** Advanced Plugin Authoring (Java/Kotlin).
+* 🧠 **Logic:** Redstone Systems, Expert Command Blocks.
+* 🎨 **Assets:** Resource/Data Pack Creation.
+
+**CONNECT & PROJECTS**
+🔗 FGH STUDIO: https://www.instagram.com/fgh_studio_official
+
+
+<!-- 👋 Hi, I’m HROMAFOX
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - Creating Minecraft resource packs.
 - Making redstone systems.
-- Programin in C#, Javascript, Python, HTML, CSS.
+- Programin in C#, Javascript, Python, HTML, CSS.-->
 
 <!--
 HROMAFOX/HROMAFOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
