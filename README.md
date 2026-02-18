@@ -15,7 +15,7 @@
 
 **CONNECT & PROJECTS**
 
-🔗 FGH STUDIO: https://www.instagram.com/fgh_studio_official
+🔗 FGH STUDIO: https://fghstudio.eu
 
 
 <!-- 👋 Hi, I’m HROMAFOX
