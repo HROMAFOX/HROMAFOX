@@ -2,6 +2,8 @@
 
 📍 FGH STUDIO Founder | 🎂 18 Y.O. <!-- | 🗓️ Est. 27.11.2007 -->
 
+*🎮 HYTALE | SAC CODE: HROMAFOX 💎*
+
 ---
 **[ 💻 PRIMARY STACK ]**
 * 🖼️ **Frontend:** Next.js, JavaScript (ES6+), HTML5/CSS3.
@@ -12,6 +14,9 @@
 * 🛠️ **Development:** Advanced Plugin Authoring (Java/Kotlin).
 * 🧠 **Logic:** Redstone Systems, Expert Command Blocks.
 * 🎨 **Assets:** Resource/Data Pack Creation.
+
+**⚙️ TECHNICAL STACK & CORE SKILLS 🛠️**
+* Languages: Java | Kotlin | PHP | TypeScript | JavaScript | SQL 🐍
 
 **CONNECT & PROJECTS**
 
