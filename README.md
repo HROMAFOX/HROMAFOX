@@ -2,7 +2,7 @@
 
 📍 FGH STUDIO Founder | 🎂 18 Y.O. <!-- | 🗓️ Est. 27.11.2007 -->
 
-**🎮 HYTALE | SAC CODE: HROMAFOX 💎**
+***🎮 HYTALE | SAC CODE: HROMAFOX 💎***
 
 ---
 **[ 💻 PRIMARY STACK ]**
