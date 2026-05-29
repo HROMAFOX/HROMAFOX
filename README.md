@@ -26,8 +26,24 @@
 
 * System Optimization: Kernel and resource tuning to maximize performance, scalability, and operational uptime. 🚀
 
-**[ ⚙️ TECHNICAL STACK & CORE SKILLS 🛠️ ]**
-* Languages: Java | Kotlin | PHP | TypeScript | JavaScript | SQL 🐍
+**[ ⚙️ TECHNICAL STACK & CORE SKILLS ] 🛠️**
+* Languages: Java | Kotlin | PHP | TypeScript | JavaScript (ES6+) | SQL 🐍
+
+* Core Web Development: HTML5 | CSS3 | Modern PHP | Vanilla JavaScript 🎨
+
+* Web Frameworks: Next.js | React | Node.js 🌐
+
+* APIs: RESTful API Design | Stripe Integration | Discord REST API | Next.js API Routes 🔌
+
+* Databases & RDBMS: MySQL | SQL Server | Database Schema Design | Query Optimization 💾
+
+* Systems & Linux: Bash Scripting | Systemd Services | Tmux Session Management | Vim/Nano 🐧
+
+* Version Control & CI/CD: Git | GitHub Workflow | Automated Deployment Pipelines 🔗
+
+* Minecraft Engineering: Spigot API | Paper API | BungeeCord/Velocity Networking | Data Packs | Command Blocks | Redstone Systems ⛏️
+
+* Project Architecture: Event-Driven Systems | Modular Plugin Development | Webhooks ⚙️
 
 **[ CONNECT & PROJECTS ]**
 
