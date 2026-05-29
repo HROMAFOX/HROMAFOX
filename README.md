@@ -16,18 +16,36 @@
 * 🎨 **Assets:** Resource/Data Pack Creation.
 
 **[ 🐧 LINUX SYSTEMS ARCHITECTURE & OPS ]**
-* Expert Linux Administrator: Comprehensive management and maintenance of high-performance server environments, prioritizing stability and security. ⚙️
+* ⚙️ Expert Linux Administrator: Comprehensive management and maintenance of high-performance server environments, prioritizing stability and security.
 
-* Low-Level Process Orchestration: Mastery of system automation through advanced Bash scripting and custom systemd services for mission-critical infrastructure. 🦾
+* 🦾 Low-Level Process Orchestration: Mastery of system automation through advanced Bash scripting and custom systemd services for mission-critical infrastructure.
 
-* Clean-Room Deployment: Professional bare-metal/VPS architecture design, ensuring minimal latency and full resource control without containerization overhead. 💎
+* 💎 Clean-Room Deployment: Professional bare-metal/VPS architecture design, ensuring minimal latency and full resource control without containerization overhead.
 
-* Infrastructure Persistence: Advanced utilization of tmux to ensure 24/7 process uptime and efficient remote system administration. 🏗️
+* 🏗️ Infrastructure Persistence: Advanced utilization of tmux to ensure 24/7 process uptime and efficient remote system administration.
 
-* System Optimization: Kernel and resource tuning to maximize performance, scalability, and operational uptime. 🚀
+* 🚀 System Optimization: Kernel and resource tuning to maximize performance, scalability, and operational uptime.
 
 **[ ⚙️ TECHNICAL STACK & CORE SKILLS ] 🛠️**
-* Languages: Java | Kotlin | PHP | TypeScript | JavaScript (ES6+) | SQL 🐍
+* 🐍 Languages: Java | Kotlin | PHP | TypeScript | JavaScript (ES6+) | SQL
+
+* 🎨 Core Web Development: HTML5 | CSS3 | Modern PHP | Vanilla JavaScript
+
+* 🌐 Web Frameworks: Next.js | React | Node.js
+
+* 🔌 APIs: RESTful API Design | Stripe Integration | Discord REST API | Next.js API Routes
+
+* 💾 Databases & RDBMS: MySQL | SQL Server | Database Schema Design | Query Optimization
+
+* 🐧 Systems & Linux: Bash Scripting | Systemd Services | Tmux Session Management | Vim/Nano
+
+* 🔗 Version Control & CI/CD: Git | GitHub Workflow | Automated Deployment Pipelines
+
+* ⛏️ Minecraft Engineering: 🛠️ Spigot API | Paper API | BungeeCord/Velocity | 🧠 Redstone Systems | Command Blocks | 🎨 Data Packs
+
+* ⚙️ Project Architecture: Event-Driven Systems | Modular Plugin Development | Webhooks
+
+<!--* Languages: Java | Kotlin | PHP | TypeScript | JavaScript (ES6+) | SQL 🐍
 
 * Core Web Development: HTML5 | CSS3 | Modern PHP | Vanilla JavaScript 🎨
 
@@ -43,7 +61,7 @@
 
 * Minecraft Engineering: Spigot API | Paper API | BungeeCord/Velocity Networking | Data Packs | Command Blocks | Redstone Systems ⛏️
 
-* Project Architecture: Event-Driven Systems | Modular Plugin Development | Webhooks ⚙️
+* Project Architecture: Event-Driven Systems | Modular Plugin Development | Webhooks ⚙️-->
 
 **[ CONNECT & PROJECTS ]**
 
