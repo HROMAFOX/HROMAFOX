@@ -18,6 +18,17 @@
 **⚙️ TECHNICAL STACK & CORE SKILLS 🛠️**
 * Languages: Java | Kotlin | PHP | TypeScript | JavaScript | SQL 🐍
 
+🐧 LINUX SYSTEMS ARCHITECTURE & OPS
+* Expert Linux Administrator: Comprehensive management and maintenance of high-performance server environments, prioritizing stability and security. ⚙️
+
+* Low-Level Process Orchestration: Mastery of system automation through advanced Bash scripting and custom systemd services for mission-critical infrastructure. 🦾
+
+* Clean-Room Deployment: Professional bare-metal/VPS architecture design, ensuring minimal latency and full resource control without containerization overhead. 💎
+
+* Infrastructure Persistence: Advanced utilization of tmux to ensure 24/7 process uptime and efficient remote system administration. 🏗️
+
+* System Optimization: Kernel and resource tuning to maximize performance, scalability, and operational uptime. 🚀
+
 **CONNECT & PROJECTS**
 
 🔗 FGH STUDIO: https://fghstudio.eu
