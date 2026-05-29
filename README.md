@@ -15,10 +15,7 @@
 * 🧠 **Logic:** Redstone Systems, Expert Command Blocks.
 * 🎨 **Assets:** Resource/Data Pack Creation.
 
-**⚙️ TECHNICAL STACK & CORE SKILLS 🛠️**
-* Languages: Java | Kotlin | PHP | TypeScript | JavaScript | SQL 🐍
-
-🐧 LINUX SYSTEMS ARCHITECTURE & OPS
+**[ 🐧 LINUX SYSTEMS ARCHITECTURE & OPS ]**
 * Expert Linux Administrator: Comprehensive management and maintenance of high-performance server environments, prioritizing stability and security. ⚙️
 
 * Low-Level Process Orchestration: Mastery of system automation through advanced Bash scripting and custom systemd services for mission-critical infrastructure. 🦾
@@ -29,7 +26,10 @@
 
 * System Optimization: Kernel and resource tuning to maximize performance, scalability, and operational uptime. 🚀
 
-**CONNECT & PROJECTS**
+**[ ⚙️ TECHNICAL STACK & CORE SKILLS 🛠️ ]**
+* Languages: Java | Kotlin | PHP | TypeScript | JavaScript | SQL 🐍
+
+**[ CONNECT & PROJECTS ]**
 
 🔗 FGH STUDIO: https://fghstudio.eu
 
